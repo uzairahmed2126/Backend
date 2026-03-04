@@ -1,12 +1,15 @@
 {
   "dependencies": {
-    "express": "^4.21.2"
+    "ejs": "^4.0.1",
+    "env": "^0.0.2",
+    "express": "^4.21.2",
+    "mysql2": "^3.18.2",
+    "pg": "^8.19.0"
   },
   "name": "express",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
